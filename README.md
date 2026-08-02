@@ -94,7 +94,9 @@ Healthcare information platform.
 # 🏆 GitHub Trophies
 
 ```md
-https://github-profile-trophy.vercel.app/?username=Neo-matrix-coder&theme=tokyonight
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neo-matrix-coder&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neo-matrix-coder&theme=tokyo-night)
 ```
 
 ---
@@ -141,7 +143,7 @@ https://github-readme-activity-graph.vercel.app/graph?username=Neo-matrix-coder&
 # 🐍 Snake Animation
 
 ```md
-https://github.com/Neo-matrix-coder/Neo-matrix-coder/blob/output/github-contribution-grid-snake.svg
+![Snake Animation](https://raw.githubusercontent.com/Neo-matrix-coder/Neo-matrix-coder/output/github-contribution-grid-snake.svg)
 ```
 
 ---
