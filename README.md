@@ -1,67 +1,151 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kannojia</h1>
 
-<h3 align="center">
-AI/ML Engineer • Mathematics & Computing @ RGIPT
-</h3>
+# <div align="center">Hi 👋, I'm Priyanshu Kannojia</div>
 
-<p align="center">
-Building AI systems, RAG applications and Machine Learning projects.
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Building+RAG+Applications;Competitive+Programmer" />
-</p>
+<div align="center">
+
+# 🤖 AI Engineer in Training | Mathematics & Computing @ RGIPT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+LLMs;Retrieval-Augmented+Generation+(RAG);Open+Source+Contributor;Competitive+Programmer;Building+Intelligent+Systems"/>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-🎓 B.Tech Mathematics & Computing @ RGIPT
+- 🎓 B.Tech Mathematics & Computing @ **RGIPT**
+- 🤖 Passionate about **AI, Machine Learning, NLP and LLMs**
+- 📚 Currently learning **PyTorch, Transformers, LangChain, System Design**
+- 🌱 Interested in **Open Source**
+- 🎯 Goal: Become an **AI Engineer** and contribute to impactful AI systems.
 
-🤖 Interested in
+---
 
-- Machine Learning
-- Deep Learning
-- LLMs
-- Retrieval-Augmented Generation
-- NLP
+# 💻 Tech Stack
 
-🌱 Currently Learning
+### Languages
 
-- PyTorch
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+</p>
+
+**Libraries**
+
+`NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib`
+
+### LLM Stack
+
 - LangChain
+- ChromaDB
+- FAISS
+- Sentence Transformers
+- Hugging Face
+- Groq API
+- BM25
+
+### Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,streamlit"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 HindiFinRAG
+Hybrid Retrieval-Augmented Generation system for Hindi financial and government documents using Hybrid Search, ChromaDB, multilingual embeddings and Groq.
+
+## 💰 Finance-IQ
+AI-powered financial assistant for answering finance-related queries.
+
+## 📚 VectorTutor
+Multi-agent AI study assistant with quizzes, flashcards and analytics.
+
+## 🏥 CGHS
+Healthcare information platform.
+
+---
+
+# 📊 GitHub Stats
+
+```md
+![Stats](https://github-readme-stats.vercel.app/api?username=Neo-matrix-coder&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Neo-matrix-coder&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-matrix-coder&layout=compact&theme=tokyonight)
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+```md
+https://github-profile-trophy.vercel.app/?username=Neo-matrix-coder&theme=tokyonight
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Deep Learning
+- ✅ Build production-ready LLM apps
+- ✅ Contribute to Open Source
+- ✅ Participate in ICPC
+- ✅ Publish AI projects
+- ✅ Secure an AI/ML Internship
+
+---
+
+# 📚 Currently Learning
+
 - Transformers
-- System Design
-- Competitive Programming
+- RAG Pipelines
+- PyTorch
+- MLOps
+- Docker
+- Kubernetes
 
-🎯 Goal
+---
 
-Become an AI Engineer at a top product company and contribute to open-source AI.
-## 💻 Tech Stack
+# 🌐 Connect
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+- LinkedIn: *(add your link)*
+- LeetCode: *(add your profile)*
+- Codeforces: *(add your profile)*
+- Email: *(add your email)*
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+# 📈 Contribution Graph
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+```md
+https://github-readme-activity-graph.vercel.app/graph?username=Neo-matrix-coder&theme=tokyo-night
+```
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+# 🐍 Snake Animation
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+```md
+https://github.com/Neo-matrix-coder/Neo-matrix-coder/blob/output/github-contribution-grid-snake.svg
+```
 
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+---
 
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+> **"Turning mathematics into intelligent systems, one model at a time."**
 
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Neo-matrix-coder&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neo-matrix-coder&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-matrix-coder&layout=compact&theme=tokyonight)
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Neo-matrix-coder&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=Neo-matrix-coder&label=Profile+Views&color=blue)
+⭐ *If you like my work, consider starring my repositories!*
