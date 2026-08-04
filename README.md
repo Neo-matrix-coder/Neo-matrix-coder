@@ -23,12 +23,12 @@
 ## Tech Stack
 
 ### Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
 ### AI / ML
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
@@ -45,12 +45,12 @@
 - BM25
 
 ### Web
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,streamlit" />
 </p>
 
 ### Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
 </p>
 
@@ -58,22 +58,23 @@
 
 ## Featured Projects
 
-### HindiFinRAG
+### [HindiFinRAG](#) <!-- TODO: Replace '#' with your actual repository link -->
 Hybrid Retrieval-Augmented Generation system for Hindi financial and government documents using Hybrid Search, ChromaDB, multilingual embeddings and Groq.
 
-### Finance-IQ
+### [Finance-IQ](#) <!-- TODO: Replace '#' with your actual repository link -->
 AI-powered financial assistant for answering finance-related queries.
 
-### VectorTutor
+### [VectorTutor](#) <!-- TODO: Replace '#' with your actual repository link -->
 Multi-agent AI study assistant with quizzes, flashcards and analytics.
 
-### CGHS
+### [CGHS](#) <!-- TODO: Replace '#' with your actual repository link -->
 Healthcare information platform.
 
 ---
 
 ## GitHub Stats
 
+<!-- TODO: If your GitHub username is NOT 'Neo-matrix-coder', do a Find & Replace (Ctrl+H) and change it to your actual username everywhere in this file! -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neo-matrix-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Neo-matrix-coder&theme=tokyonight" alt="GitHub Streak" />
@@ -116,15 +117,17 @@ Healthcare information platform.
 
 ## Connect
 
-- **LinkedIn:** [Add your link here](#)
-- **LeetCode:** [Add your profile here](#)
-- **Codeforces:** [Add your profile here](#)
-- **Email:** [Add your email here](mailto:your-email@example.com)
+<!-- TODO: Replace the '#' and placeholder text with your actual profile links -->
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile)
+- **Codeforces:** [codeforces.com/profile/your-profile](https://codeforces.com/profile/your-profile)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
 ## Snake Animation
 
+<!-- TODO: This will only work AFTER you create the .github/workflows/snake.yml file and run it (as explained in the previous message) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Neo-matrix-coder/Neo-matrix-coder/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
