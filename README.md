@@ -86,7 +86,9 @@ Healthcare information platform.
 ## GitHub Trophies & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neo-matrix-coder&theme=tokyonight" alt="GitHub Trophies" />
+  <div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-matrix-coder&theme=tokyo-night" alt="Contribution Graph" />
 </div>
