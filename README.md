@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Neo-matrix-coder)
+
 # <div align="center">Hi, I'm Priyanshu Kannojia</div>
 
 <div align="center">
